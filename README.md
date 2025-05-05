@@ -13,10 +13,10 @@ This project is not to be distributed outside of this GitHub project repository,
 - Drizzling
 - Rain (no rain particles yet)
 - Thunderstorm (no rain or lightning particles yet)
-- Snow
+- Snow (no snow particles yet)
 
 # Commands Guide
-in order to use command, press F4 on the keyboard
+in order to use the command, press F4 on the keyboard
 you must also use '/' before any command (ie; /weather clear)
 
 # List of Commands
